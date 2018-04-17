@@ -12,3 +12,5 @@ ZCZC W04 "Telah mencoba demo Week04"
 ZCZC W05 "Demo 5 is done!"
 <br>
 ZCZC W06 "Demo 6 sudah dicoba"
+<br>
+ZCZC W07 "Demo 7 sudah dibuka"
