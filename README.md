@@ -14,3 +14,5 @@ ZCZC W05 "Demo 5 is done!"
 ZCZC W06 "Demo 6 sudah dicoba"
 <br>
 ZCZC W07 "Demo 7 sudah dibuka"
+<br>
+ZCZC W08 "Mantap"
